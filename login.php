@@ -27,7 +27,7 @@ if(isset($_POST['username']) && isset($_POST['password'])){
 
 ?>
 
-<h3> Welcome to this very simple database program :D</h3>
+<h3> Welcome to this very simple database program :D yay</h3>
 
 <form action="<?php echo $current_file; ?>" method="POST">
 Username: <input type="text" name="username">
